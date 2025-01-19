@@ -1,0 +1,36 @@
+.weather-box {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 250px;
+    margin-left: 20px;
+    margin-top: 100px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+  
+  .weather-box h2 {
+    font-size: 18px;
+    color: orange;
+    margin-bottom: 10px;
+  }
+  
+  .weather-box p {
+    font-size: 14px;
+    color: white;
+    margin: 6px 0;
+  }
+
+@media screen and (max-width: 768px) {
+   .weather-box {
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+}
