@@ -11,8 +11,7 @@ const GitLab = () => {
     { name: 'Ferramentas em Python', url: 'https://github.com/mynameisraphax/Auto-insert', description: 'Algumas ferramentas para manipulação de texto em Python' },
     { name: 'Ferramentas em Python 2', url: 'https://github.com/mynameisraphax/removelinhasreptpy', description: 'Algumas ferramentas para manipulação de texto em Python' },
     { name: 'Ferramentas em Python 3', url: 'https://github.com/mynameisraphax/Auto-insert', description: 'Algumas ferramentas para manipulação de texto em Python' },
-    { name: 'Ferramentas em Python 4', url: 'https://github.com/mynameisraphax/Auto-insert', description: 'Algumas ferramentas para manipulação de texto em Python' },
-    { name: 'Ferramentas em Python 3', url: 'https://github.com/mynameisraphax/Auto-insert', description: 'Algumas ferramentas para manipulação de texto em Python' }
+    { name: 'Ferramentas em Python 4', url: 'https://github.com/mynameisraphax/Auto-insert', description: 'Algumas ferramentas para manipulação de texto em Python' }
   ];
 
   return (
