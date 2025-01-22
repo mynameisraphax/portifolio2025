@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import './GitLab.css'; // Importando o CSS específico da página
+import './GitLab.css';
 
 const GitLab = () => {
   const projects = [

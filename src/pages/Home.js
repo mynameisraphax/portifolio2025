@@ -1,4 +1,3 @@
-// client/src/pages/Home.js
 import React from 'react';
 import WeatherComponent from '../components/WeatherComponent';
 import Navbar from '../components/Navbar';
